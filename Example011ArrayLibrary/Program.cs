@@ -32,7 +32,7 @@ int IndexOf(int[] collection, int f)
 	return pos;
 }
 
-int[] arr = new int[10];
+int[] arr = new int[100];
 
 FillArray(arr);
 Console.WriteLine("Введите искомое число ");
